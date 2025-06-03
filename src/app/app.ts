@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'angular-docker-template';
+  protected title = 'angular-docker-template, a simple Angular application running in a Docker container';
 }
